@@ -1,0 +1,3 @@
+本部分模型为论文所用，此处的JM1.py既有训练的作用还能用测试集测试最终的训练结果，同时能够将最终的结果保存到txt文件中。
+test_data_new_split.csv与train_data_new_split.csv这两个是此部分所使用的训练集和测试集。也可以使用数据集中的train_data_new.csv来训练（位于原始数据合并与特征提取之后的数据集文件夹内）。test_data_new_split.csv与train_data_new_split.csv是由train_data_new.csv不重复划分得来的。
+这里的训练集和测试集都是空的，github不能上传好几个G的训练集所以，就改成了空的。
