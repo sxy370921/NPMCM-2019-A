@@ -19,7 +19,7 @@ pytz==2017.2
 singledispatch==3.4.0.3
 six==1.10.0
 tensorboard==1.8.0
-tensorflow==1.8.0
+tensorflow==2.7.2
 termcolor==1.1.0
 Werkzeug==0.12.2
 wrapt==1.10.11
